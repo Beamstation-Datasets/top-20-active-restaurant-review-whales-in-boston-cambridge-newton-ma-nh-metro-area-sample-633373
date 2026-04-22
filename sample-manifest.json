@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8b841f8e-ec3a-4306-be70-b78602f37d13",
+  "export_job_id": "17dfc513-0592-4595-8452-ac443711469e",
   "id_short": 633373,
-  "published_at": "2026-04-18T19:34:03Z",
+  "published_at": "2026-04-22T07:47:13Z",
   "repo_name": "top-20-active-restaurant-review-whales-in-boston-cambridge-newton-ma-nh-metro-area-sample-633373",
   "sample_asset_name": "beamstation_633373_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/633373/beamstation_633373_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
-  "sample_records": 128,
-  "sample_sha256": "7dbdb2c1816aa35297c9d20b70ba635b891ce5438252b9f21c2c01bd86b99a26",
-  "sample_size_bytes": 505197,
-  "total_records": 1280
+  "sample_records": 96,
+  "sample_sha256": "d934f9da14432504f05d4d89b1cb5b3832f90f43f54d3eccd1bd3d84189a3297",
+  "sample_size_bytes": 377962,
+  "total_records": 966
 }
