@@ -1,6 +1,6 @@
 # Top 20% Active Restaurant Review Whales in Boston-Cambridge-Newton, MA-NH Metro Area, US
 
-> Free BeamStation sample export with 96 rows and masked direct-contact fields.
+> Free BeamStation sample export with 102 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `633373` |
 | Location | Boston-Cambridge-Newton, MA-NH |
 | Category | Restaurants |
-| Full dataset size | 966 records |
-| Free sample size | 96 records (9.94%) |
-| Last export | 2026-04-22T06:54:31.258809+00:00 |
+| Full dataset size | 1,028 records |
+| Free sample size | 102 records (9.92%) |
+| Last export | 2026-04-29T08:52:47.663241+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-20-active-restaurant-review-whales-in-boston-cambridge-newton-ma-nh-metro-area-sample-633373/releases/download/sample-latest/beamstation_633373_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
